@@ -1,0 +1,10 @@
+@media (max-width: 768px) {
+    /* aici selectam doar div-urile care sunt DIRECT copii pentru footer */
+    footer > div {
+        flex-direction: column;
+    }
+
+    footer .footer-group {
+        margin-bottom: 1.5rem;
+    }
+}

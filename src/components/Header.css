@@ -1,0 +1,9 @@
+.header img {
+    width: 400px;
+    height: auto;
+}
+
+header .logout:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
